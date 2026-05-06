@@ -1,3 +1,3 @@
 # Excel-Sales-Dashboard
 An interactive Excel Dashboard analyzing Superstore sales data by region,city,and shipping mode,etc.. by bar charts pie charts etc....
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0a0d98a8-0c8c-4a3c-bd04-bdc0227041ea" />
+<img width="1909" height="730" alt="image" src="https://github.com/user-attachments/assets/ef7493e8-3de9-48fa-9ce5-ead61dfee7ed" />
